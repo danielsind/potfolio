@@ -1,5 +1,5 @@
 body{
-    font-size: 30px;
+    font-size: 35px;
     text-align: center;
     background-image: url("http://www.inside4tech.com/wp-content/uploads/2018/12/01-1024x637.jpg");
     background-repeat:no-repeat;
@@ -11,14 +11,24 @@ body{
     width: 100%;
     text-align: center;
     padding: 20px;
+    position: sticky;
+    top: 0;
 }
-li{
+.li{
    display: inline-block;
    padding: 10px;
    background: rgba(0, 255, 128,1);
    border-radius: 50px;
    padding: 20px;
    box-shadow: 0px 2px 5px 4px gray ;
+}
+li{
+    padding: 10px;
+    background: rgba(0, 255, 128,1);
+    border-radius: 50px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px 4px gray ;
+    margin-top: 2%; 
 }
 
 .text{
@@ -40,4 +50,8 @@ li{
 }
 .icon{
     background-color: rgba(50,50,50,0.5);
+}
+.about,.about1{
+    display: flex;
+    justify-content: space-around;
 }

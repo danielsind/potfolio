@@ -6,6 +6,8 @@ body{
     background-attachment: scroll;
     background-size: 100% 100%;
     padding-bottom: 5%;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
 }
 .nav{
     width: 100%;
@@ -76,5 +78,13 @@ li{
 }
 #soft{
     border-radius: 20% 5%;
+}
+h2{
+    padding: 10px;
+    background: khaki;
+    border-radius: 50px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px 4px gray ;
+    margin-top: 2%; 
 }
 

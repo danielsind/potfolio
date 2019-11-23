@@ -1,11 +1,11 @@
 body{
-    font-size: 35px;
+    font-size: 40px;
     text-align: center;
     background-image: url("http://www.inside4tech.com/wp-content/uploads/2018/12/01-1024x637.jpg");
     background-repeat:no-repeat;
     background-attachment: scroll;
     background-size: 100% 100%;
-    padding-bottom: 5%;
+    padding-bottom: 8%;
     font-family: 'Amatic SC', cursive;
     font-weight: bolder;
 }
@@ -63,7 +63,6 @@ li{
     padding: 30px;
 }
 #education,#skills,#hobbies,#soft{
-    background-color:antiquewhite;
     padding: 20px;
     border: transparent 10px;
 }

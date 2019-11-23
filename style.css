@@ -38,8 +38,9 @@ li{
     background: rgb(10,10,10);
     background: rgba(50,50,50,0.5);
     color: rgb(240, 222, 140);
-    padding-bottom: 20%;
+    padding-bottom: 15%;
     margin-top: 0;
+    margin-bottom: 0;
 }
 .ic{
     font-size: 65px;

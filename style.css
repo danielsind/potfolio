@@ -8,6 +8,8 @@ body{
     padding-bottom: 8%;
     font-family: 'Amatic SC', cursive;
     font-weight: bolder;
+    width: auto;
+    overflow-x: hidden;
 }
 .nav{
     width: 100%;

@@ -97,4 +97,21 @@ h3{
     box-shadow: 0px 2px 5px 4px gray ;
     margin-top: 2%; 
 }
+#pr{
+    animation-name: badi;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-delay: -2s;
+    color:black;
+}
+@keyframes badi {
+    0%{background-color:red;}
+    10%{background-color:green;}
+    20%{background-color:yellowgreen;}
+    40%{background-color: orangered;}
+    60%{background-color: cyan;}
+    80%{background-color: white;}
+    100%{background-color: khaki;}
+}
 

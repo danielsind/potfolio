@@ -116,4 +116,8 @@ h3{
     80%{background-color:pink;}
     100%{background-color: khaki;}
 }
+#projects{
+    display: flex;
+    justify-content: space-around;
+}
 

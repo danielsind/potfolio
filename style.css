@@ -1,13 +1,12 @@
 body{
-    font-size: 40px;
+    font-size: 35px;
     text-align: center;
     background-image: url("http://www.inside4tech.com/wp-content/uploads/2018/12/01-1024x637.jpg");
     background-repeat:no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
     padding-bottom: 8%;
-    font-family: 'Amatic SC', cursive;
-    font-weight: bolder;
+    font-family: 'Underdog', cursive;
     width: auto;
     overflow-x: hidden;
 }
@@ -128,9 +127,9 @@ h3{
 }
 @keyframes ul {
     0%   {padding: 0;}
-    50%  {padding-right: 65%;}
+    50%  {padding-right: 45%;}
     75%  {padding:0%;}
-    100% {padding-left:65%;}
+    100% {padding-left:45%;}
 }
 button{
     padding: 10px;
